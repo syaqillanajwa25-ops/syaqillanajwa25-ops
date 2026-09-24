@@ -67,4 +67,4 @@ Generative deep learning project using Generator and Discriminator networks for 
 ## Contact
 
 LinkedIn: add your LinkedIn URL here  
-Email: add your professional email here
+Email: syaqillanajwa25@gmail.com
